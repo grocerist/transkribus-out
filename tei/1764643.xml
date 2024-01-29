@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">grocerist-document__24</title></titleStmt>
+         <seriesStmt><title>grocerist</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">grocerist-document__24</title><idno type="Transkribus">1764643</idno><idno type="external">NA</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4196" lry="5083" xml:id="facs_1">
+         <graphic url="14_275_0006.jpg" width="4196px" height="5083px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4223" lry="5101" xml:id="facs_2">
+         <graphic url="14_275_0035.jpg" width="4223px" height="5101px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4223" lry="5101" xml:id="facs_3">
+         <graphic url="14_275_0036.jpg" width="4223px" height="5101px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4179" lry="5101" xml:id="facs_4">
+         <graphic url="14_275_0043.jpg" width="4179px" height="5101px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4188" lry="5109" xml:id="facs_5">
+         <graphic url="14_275_0074.jpg" width="4188px" height="5109px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+         </div>
+      </body>
+   </text>
+</TEI>

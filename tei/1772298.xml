@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         <titleStmt><title type="main">grocerist-document__52</title></titleStmt>
+         <titleStmt><title type="main">grocerist-document__87</title></titleStmt>
          <seriesStmt><title>grocerist</title></seriesStmt>
          <sourceDesc>
-            <bibl><title type="main">grocerist-document__52</title><idno type="Transkribus">1764520</idno><idno type="external">NA</idno></bibl>
+            <bibl><title type="main">grocerist-document__87</title><idno type="Transkribus">1772298</idno></bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4518" lry="6066" xml:id="facs_1">
-         <graphic url="14_528_0082.jpg" width="4518px" height="6066px"/>
+      <surface ulx="0" uly="0" lrx="4411" lry="6075" xml:id="facs_1">
+         <graphic url="06_548_0040.jpg" width="4411px" height="6075px"/>
       </surface>
    </facsimile>
    <text>
