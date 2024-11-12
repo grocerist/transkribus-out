@@ -10,7 +10,7 @@ tr_param = "&fileType=view"
 
 for x in files:
     doc = TeiReader(x)
-    doc_id = doc.tree.xpath(".//title[1]/text()")[0].replace("grocerist-", "")
+    doc_id = doc.tree.xpath(".//docId[1]/text()")[0]
     print(doc_id)
     images = doc.tree.xpath(
         ".//mets:fileGrp[@ID='IMG']//mets:FLocat/@xlink:href",
