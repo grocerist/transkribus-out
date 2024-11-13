@@ -12,15 +12,11 @@
       <surface ulx="0" uly="0" lrx="3991" lry="4913" xml:id="facs_1">
          <graphic url="06_359_0024.jpg" width="3991px" height="4913px"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="3991" lry="4913" xml:id="facs_2">
-         <graphic url="06_359_0025.jpg" width="3991px" height="4913px"/>
-      </surface>
    </facsimile>
    <text>
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
          </div>
       </body>
    </text>

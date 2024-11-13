@@ -12,27 +12,11 @@
       <surface ulx="0" uly="0" lrx="3786" lry="4879" xml:id="facs_1">
          <graphic url="14_237_0014.jpg" width="3786px" height="4879px"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="3741" lry="4879" xml:id="facs_2">
-         <graphic url="14_237_0025.jpg" width="3741px" height="4879px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3741" lry="4879" xml:id="facs_3">
-         <graphic url="14_237_0026.jpg" width="3741px" height="4879px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3723" lry="4879" xml:id="facs_4">
-         <graphic url="14_237_0037.jpg" width="3723px" height="4879px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3759" lry="4879" xml:id="facs_5">
-         <graphic url="14_237_0060.jpg" width="3759px" height="4879px"/>
-      </surface>
    </facsimile>
    <text>
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
          </div>
       </body>
    </text>
