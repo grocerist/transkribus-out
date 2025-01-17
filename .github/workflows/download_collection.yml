@@ -14,12 +14,17 @@ jobs:
       TR_PW: ${{ secrets.TR_PW }}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v3
-    - name: Install Python Packages
-      run: |
-        pip install -r requirements.txt
-        python download_and_transform.py
-        python list_img_ids.py
+      uses: actions/checkout@v4
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+        cache: "pip"
+    - run: pip install -r requirements.txt
+    - name: Download and transform
+      run: python download_and_transform.py
+    - name: List image ids 
+      run: python list_img_ids.py
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Export and Transformation done
