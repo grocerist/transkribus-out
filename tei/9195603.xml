@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">grocerist-document__283</title></titleStmt>
+         <seriesStmt><title>grocerist</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">grocerist-document__283</title><idno type="Transkribus">9195603</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="9376" lry="9969" xml:id="facs_1">
+         <graphic url="14_664_0013.jpg" width="9376px" height="9969px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+         </div>
+      </body>
+   </text>
+</TEI>
